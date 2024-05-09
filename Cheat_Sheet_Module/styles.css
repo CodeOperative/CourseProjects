@@ -1,0 +1,38 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    font-size: 2em;
+    background-color: aliceblue;
+}
+
+h1 {
+    color: blue;
+    border: 10px double black;
+}
+
+h2 span.redbig {
+    color: red;
+    font-size: 150%;
+}
+
+h2 span.greensmall {
+    color: green;
+}
+
+.bold {
+    font-weight: bold;
+    background-color: lightgoldenrodyellow;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+body {
+    background-color: azure;
+}
+
+
